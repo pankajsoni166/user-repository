@@ -1,0 +1,5 @@
+com/pramati/userservice/repository/UserRepository.class
+com/pramati/userservice/model/MyUser.class
+com/pramati/userservice/UserServiceApplication.class
+com/pramati/userservice/service/UserService.class
+com/pramati/userservice/controller/UserController.class
